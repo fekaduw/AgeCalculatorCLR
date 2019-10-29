@@ -1,0 +1,7 @@
+D:\Projects\AgeCalculatorCLR\AgeCalculatorCLR\bin\Debug\AgeCalculatorCLR.dll
+D:\Projects\AgeCalculatorCLR\AgeCalculatorCLR\bin\Debug\AgeCalculatorCLR.pdb
+D:\Projects\AgeCalculatorCLR\AgeCalculatorCLR\bin\Debug\Ethiopic.Calendar.pdb
+D:\Projects\AgeCalculatorCLR\AgeCalculatorCLR\obj\Debug\AgeCalculatorCLR.dll
+D:\Projects\AgeCalculatorCLR\AgeCalculatorCLR\obj\Debug\AgeCalculatorCLR.pdb
+D:\Projects\AgeCalculatorCLR\AgeCalculatorCLR\bin\Debug\Ethiopic.Calendar.dll
+D:\Projects\AgeCalculatorCLR\AgeCalculatorCLR\obj\Debug\AgeCalculatorCLR.csprojResolveAssemblyReference.cache
